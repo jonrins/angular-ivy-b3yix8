@@ -1,0 +1,18 @@
+{
+  "/secure": {
+    "target": "http://localhost/bedrive2/server",
+    "secure": false
+  },
+  "/storage": {
+    "target": "http://localhost/bedrive2/server",
+    "secure": false
+  },
+  "/client/assets/images": {
+    "target": "http://localhost/bedrive2/server",
+    "secure": false
+  },
+  "/__clockwork": {
+    "target": "http://localhost/bedrive2/server/public",
+    "secure": false
+  }
+}
